@@ -6,7 +6,7 @@
 
 ---
 
-This is the Spyder IDE [TabNine](https://codota.com) client, advanced AI based autocomplete for all programming languages. TabNine Indexes your entire project by reading your `.gitignore` [or others](https://www.tabnine.com/faq#nongit), and determines which files to index.
+This is the Ace [TabNine](https://codota.com) client, advanced AI based autocomplete for all programming languages. TabNine Indexes your entire project by reading your `.gitignore` [or others](https://www.tabnine.com/faq#nongit), and determines which files to index.
 
 - Enter long variable names using minimal keystrokes and leverage a mnemonic completion engine.
 - Zero configuration. TabNine works out of the box.
